@@ -1,0 +1,32 @@
+
+Welcome Everyone to My Assignment 3. My name is...
+
+The List is:
+math, english, chemistry, physics, history, geography, religion, arts, accounting, math, programming, biology, 
+
+Displaying names of courses in uppercase letters...
+
+The List is:
+MATH, ENGLISH, CHEMISTRY, PHYSICS, HISTORY, GEOGRAPHY, RELIGION, ARTS, ACCOUNTING, MATH, PROGRAMMING, BIOLOGY, 
+
+Deleting courses 4 to 6...
+
+The List is:
+MATH, ENGLISH, CHEMISTRY, PHYSICS, ARTS, ACCOUNTING, MATH, PROGRAMMING, BIOLOGY, 
+
+Here is the current list of courses...
+
+The List is:
+MATH, ENGLISH, CHEMISTRY, PHYSICS, ARTS, ACCOUNTING, MATH, PROGRAMMING, BIOLOGY, 
+
+Reversed List:
+BIOLOGY, PROGRAMMING, MATH, ACCOUNTING, ARTS, PHYSICS, CHEMISTRY, ENGLISH, MATH, 
+
+Sorted courses in alphabetical order...
+
+The List is:
+ACCOUNTING, ARTS, BIOLOGY, CHEMISTRY, ENGLISH, MATH, MATH, PHYSICS, PROGRAMMING, 
+
+Removing duplicate courses...
+
+Non-duplicates are: PROGRAMMING, PHYSICS, ARTS, BIOLOGY, ACCOUNTING, CHEMISTRY, ENGLISH, MATH, 
